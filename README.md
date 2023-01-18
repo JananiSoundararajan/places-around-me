@@ -7,7 +7,7 @@ To develop a website to display details about the places around my house.
 ### Step 1:
 Clone the places-around-me repository into the folder named imagemaps.Perform neccessary changes in settings.py.
 ### Step 2:
-Create aa folder named "static" in which folder named "html" has to be created and under which all required html files need to be created.
+Create a folder named "static" in which folder named "html" has to be created and under which all required html files need to be created.
 Code the main html program for the website and link all the other 5 html codes created regarding the places desciption
 ### Step 3:
 Edit the readme.md file and push the files to the Github to display contents for the same
