@@ -12,6 +12,7 @@ Code the main html program for the website and link all the other 5 html codes c
 ### Step 3:
 Edit the readme.md file and push the files to the Github to display contents for the same
 ## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -37,7 +38,7 @@ Edit the readme.md file and push the files to the Github to display contents for
         </center>
     </body>
 </html>
-
+```
 
 ## Output:
 ![OUTPUT](saidapet.png)
